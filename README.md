@@ -1,5 +1,5 @@
 # itcs-binaries
-This repo is only for hosting the Intelligent Traffic Control System (ITCS) binaries.
+This repo hosts compiled binaries for Intelligent Traffic Control System (ITCS) simulation. Please click on [releases](https://github.com/hsed/itcs-binaries/releases) to view all download options.
 
 
 ## About
